@@ -7,7 +7,9 @@ The project was developed in 2016 by [Anna Grosso](#about-the-authors), [Carlo R
 
 ## Video
 
-[![Video](http://i.imgur.com/Hm8YjNf.png)](https://www.youtube.com/watch?v=ob23uUz5j5c)
+<a href="https://www.youtube.com/watch?v=ob23uUz5j5c" target="_blank">
+<img src="http://i.imgur.com/Hm8YjNf.png" alt="Video">
+</a>
 
 ## Design
 
@@ -16,7 +18,7 @@ The project was developed in 2016 by [Anna Grosso](#about-the-authors), [Carlo R
 ## About the authors
 - Anna Grosso ([Email](mailto:s213448@studenti.polito.it))
 - Carlo Rapisarda ([Website](http://carlorapisarda.me))
-- Salvatore Giordano ([Email](mailto:salvatoregiordanoo@gmail.com))
+- Salvatore Giordano ([Email](mailto:salvatoregiordanoo@gmail.com) - [LinkedIn](https://www.linkedin.com/in/salvatore-giordano))
 
 ## License
 
