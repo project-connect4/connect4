@@ -3,7 +3,7 @@
 
 As the name suggests, **Connect 4** is an implementation of the [popular board game](https://en.wikipedia.org/wiki/Connect_Four) that everyone has played at least once. It's been adapted specifically for the [ZYBO board](https://reference.digilentinc.com/reference/programmable-logic/zybo/start), or any device with a [Zync-7000 SoC](http://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html).
 
-The project was developed in 2016 by Anna Grosso, Carlo Rapisarda, and Salvatore Giordano as students of the Computer Architecture course held at [Politecnico di Torino](http://www.polito.it/index.php?lang=en) by professors [Paolo Montuschi](http://staff.polito.it/paolo.montuschi/) and [Luca Sterpone](http://www.dauin.polito.it/personale/scheda/(nominativo)/luca.sterpone).
+The project was developed in 2016 by [Anna Grosso](#about-the-authors), [Carlo Rapisarda](#about-the-authors), and [Salvatore Giordano](#about-the-authors) as students of the Computer Architecture course held at [Politecnico di Torino](http://www.polito.it/index.php?lang=en) by professors [Paolo Montuschi](http://staff.polito.it/paolo.montuschi/) and [Luca Sterpone](http://www.dauin.polito.it/personale/scheda/(nominativo)/luca.sterpone).
 
 ## Design
 
